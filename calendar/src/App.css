@@ -1,6 +1,7 @@
 @import './material.css';
 .App {
   text-align: center;
+  width: 80%;
 }
 
 .App-logo {
